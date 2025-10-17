@@ -1,0 +1,23 @@
+body{
+	background-color: #e34d69;
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#um{
+	background-color: pink;
+ 	width: 70%;
+    height: 70%;    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{
+	font-family: serif;
+	font-size: 24px;
+    text-align: center;
+}
